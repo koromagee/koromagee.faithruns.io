@@ -1,7 +1,25 @@
+/* Place your CSS styles in this file */
+
+/* Place your CSS styles in this file */
+
 body {
     text-align: center;
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     font-style: italic;
-    color: blue;
+}
+
+button{
+color: rgb(122, 81, 28);
+text-align: center;
+}
+
+p1{
+  color: coral;
+}
+p2{
+  color:rgb(147, 92, 24) ;
+}
+::backdrop{
+  color: rgb(127, 91, 45);  
 }
