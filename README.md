@@ -15,7 +15,7 @@ Exodus Run is an interactive web experience where users make decisions and see h
 - JavaScript
 
 ## Live Site
-(https://koromagee.github.io/koromagee.faithruns.io/)
+https://koromagee.github.io/koromagee.faithruns.io/
 
 ## Purpose
 This project explores how technology can be used to create meaningful, people-centered digital experiences.
