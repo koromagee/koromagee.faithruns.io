@@ -2,7 +2,6 @@
 About My Fathers Business
 
 # Exodus Run
-
 Exodus Run is an interactive web experience where users make decisions and see how their choices impact the story.
 
 ## Features
